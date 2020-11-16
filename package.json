@@ -1,0 +1,11 @@
+{
+  "name": "instabot",
+  "version": "1.0.0",
+  "description": "Insta Bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed SAHRAOUI",
+  "license": "ISC"
+}
